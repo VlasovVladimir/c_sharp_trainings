@@ -1,4 +1,4 @@
-Some C# trainings
+# Some C# trainings
 
 April 13:
 - hello_world - just Hello World;
