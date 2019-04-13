@@ -1,0 +1,11 @@
+/Users/vlasovvp/personal_programming/c_sharp_trainings/hello_world/hello_world/bin/Debug/netcoreapp2.1/hello_world.deps.json
+/Users/vlasovvp/personal_programming/c_sharp_trainings/hello_world/hello_world/bin/Debug/netcoreapp2.1/hello_world.runtimeconfig.json
+/Users/vlasovvp/personal_programming/c_sharp_trainings/hello_world/hello_world/bin/Debug/netcoreapp2.1/hello_world.runtimeconfig.dev.json
+/Users/vlasovvp/personal_programming/c_sharp_trainings/hello_world/hello_world/bin/Debug/netcoreapp2.1/hello_world.dll
+/Users/vlasovvp/personal_programming/c_sharp_trainings/hello_world/hello_world/bin/Debug/netcoreapp2.1/hello_world.pdb
+/Users/vlasovvp/personal_programming/c_sharp_trainings/hello_world/hello_world/obj/Debug/netcoreapp2.1/hello_world.csprojAssemblyReference.cache
+/Users/vlasovvp/personal_programming/c_sharp_trainings/hello_world/hello_world/obj/Debug/netcoreapp2.1/hello_world.csproj.CoreCompileInputs.cache
+/Users/vlasovvp/personal_programming/c_sharp_trainings/hello_world/hello_world/obj/Debug/netcoreapp2.1/hello_world.AssemblyInfoInputs.cache
+/Users/vlasovvp/personal_programming/c_sharp_trainings/hello_world/hello_world/obj/Debug/netcoreapp2.1/hello_world.AssemblyInfo.cs
+/Users/vlasovvp/personal_programming/c_sharp_trainings/hello_world/hello_world/obj/Debug/netcoreapp2.1/hello_world.dll
+/Users/vlasovvp/personal_programming/c_sharp_trainings/hello_world/hello_world/obj/Debug/netcoreapp2.1/hello_world.pdb
